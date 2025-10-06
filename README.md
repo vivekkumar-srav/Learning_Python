@@ -1,2 +1,4 @@
 # Learning_Python
-This is my Pythons Repositories | By- Your Vivek Ji
+This is my Pythons Repositories for my classmates.
+<br>
+By- Your Vivek Ji
